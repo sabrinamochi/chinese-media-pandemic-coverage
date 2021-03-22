@@ -4,7 +4,6 @@ function isMobile() {
   
   if (!isMobile()) {
   
-
         // network graph
         // General settings
 
